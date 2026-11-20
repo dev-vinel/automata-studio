@@ -1,0 +1,16 @@
+
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.idea/
+.DS_Store
+venv/
+__pycache__/
+.pytest_cache/
+paquets/
+*.zip
+*.png
+*.dot
+interface_backup.py

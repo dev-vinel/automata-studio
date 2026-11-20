@@ -1,0 +1,4 @@
+customtkinter
+graphviz
+Pillow
+pytest
